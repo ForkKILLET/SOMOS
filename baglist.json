@@ -4,7 +4,7 @@
 		"maze-test": {
 			"ty": "js",
 			"perm": [
-				"term"
+				"term", "chalk"
 			],
 			"src": [
 				{
