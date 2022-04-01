@@ -1,0 +1,19 @@
+{
+	"v": 1,
+	"list": {
+		"maze-test": {
+			"ty": "js",
+			"perm": [
+				"term"
+			],
+			"src": [
+				{
+					"ty": "gh",
+					"repo": "ForkKILLET/FkMaze",
+					"entry": "docs/bag.js",
+					"main": "default"
+				}
+			]
+		}	
+	}
+}
