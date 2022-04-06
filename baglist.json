@@ -10,10 +10,10 @@
 				{
 					"ty": "gh",
 					"repo": "ForkKILLET/FkMaze",
-					"entry": "docs/bag.js",
-					"main": "default"
+					"entry": "docs/bag.js"
 				}
-			]
-		}	
+			],
+			"main": "default"
+		}
 	}
 }
