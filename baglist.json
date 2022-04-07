@@ -14,6 +14,19 @@
 				}
 			],
 			"main": "default"
+		},
+		"oierspace": {
+			"ty": "js",
+			"perm": [ "term", "minimist", "chalk", "axios" ],
+			"src": [
+				{
+					"ty": "gh",
+					"repo": "piterator-org/oierspace-cli-bag",
+					"entry": "bag.js"
+				}
+			],
+			"main": "default",
+			"bin": "blog"
 		}
 	}
 }
